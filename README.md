@@ -1,4 +1,4 @@
-# Management VLAN for Netgear GS105E/GS108E
+# Management VLAN for Netgear GS105Ev2/GS108Ev3
 
 The Netgear firmware doesn't implement the functionality of a management VLAN on this devices. But there is a workaround which enables you to isolate the web configuration page from all port access.
 
